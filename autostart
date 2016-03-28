@@ -1,0 +1,9 @@
+@pcmanfm --desktop --profile LXDE
+@xscreensaver -no-splash
+@vala-panel
+@vala-panel-extras-volume
+@vala-panel-extras-weather
+@vala-panel-extras-battery
+@plank
+@compton
+
