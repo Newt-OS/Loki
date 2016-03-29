@@ -8,6 +8,7 @@ Components of Loki Desktop:
   - Vala Panel Appmenu (https://github.com/rilian-la-te/vala-panel-appmenu)
   - Openbox (http://openbox.org/wiki/Main_Page)
   - LXDE Session, PCManFM (http://lxde.org/)
-  - Arc Theme
+  - Arc Theme (https://github.com/horst3180/arc-theme)
+  - Moka Icons (https://github.com/moka-project/moka-icon-theme)
 
 These files rely on the above software components, and are simply just configurations to bring the components together.
