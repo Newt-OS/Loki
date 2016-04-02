@@ -22,24 +22,5 @@ The files in this repository rely on the above software components, and are simp
 
 This is a listing of where the files in this repository should be installed, and what the purpose is.
 
--LeapFinal.png: /usr/share/wallpapers/       (default wallpaper)
-
--autostart: /etc/xdg/lxsession/LXDE/         (autostart programs for LXsession)
-
--config: /etc/xdg/vala-panel/default/        (set logout command for vala-panel)
-
--displaymanager: /etc/sysconfig/             (set display manager)
-
--desktop.conf: /etc/xdg/lxsession/LXDE/      (set gtk, icon, cursor themes)
-
--lightdm-gtk-greeter.conf: /etc/lightdm/     (configure lightdm greeter)
-
--panel: /etc/xdg/vala-panel/default/panels/  (panel layout and appearance)
-
--pcmanfm.conf: /etc/xdg/pcmanfm/LXDE/        (set wallpaper, desktop settings)
-
--rc.xml: /etc/xdg/openbox/LXDE/              (configure openbox)
-
--skippy-xd.desktop: /usr/share/applications/ (set up skippy-xd program)
-
--synapse.desktop: /usr/share/applications/   (set up synapse program)
+-LeapFinal.png: /usr/share/wallpapers/(default wallpaper)
+autostart: /etc/xdg/lxsession/LXDE/(autostart programs for LXsession)config: /etc/xdg/vala-panel/default/        (set logout command for vala-panel)displaymanager: /etc/sysconfig/             (set display manager)desktop.conf: /etc/xdg/lxsession/LXDE/      (set gtk, icon, cursor themes)lightdm-gtk-greeter.conf: /etc/lightdm/     (configure lightdm greeter)panel: /etc/xdg/vala-panel/default/panels/  (panel layout and appearance)pcmanfm.conf: /etc/xdg/pcmanfm/LXDE/        (set wallpaper, desktop settings)rc.xml: /etc/xdg/openbox/LXDE/              (configure openbox)skippy-xd.desktop: /usr/share/applications/ (set up skippy-xd program)synapse.desktop: /usr/share/applications/   (set up synapse program)
