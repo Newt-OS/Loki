@@ -15,4 +15,4 @@ Artistic Components
   - Arc Theme (https://github.com/horst3180/arc-theme)
   - Moka Icons (https://github.com/moka-project/moka-icon-theme)
 
-These files rely on the above software components, and are simply just configurations to bring the components together.
+The files in this repository rely on the above software components, and are simply just configurations to bring the components together.
