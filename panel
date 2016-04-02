@@ -16,6 +16,9 @@ autohide=false
 use-font=true
 font='Aller 10'
 font-size-only=false
+background-color='rgba(0,0,0,0.69824561403508767)'
+
+use-background-color=true
 
 [1]
 plugin-type='menumodel'
