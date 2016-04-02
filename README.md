@@ -16,11 +16,20 @@ Artistic Components
   - Arc Theme (https://github.com/horst3180/arc-theme)
   - Moka Icons (https://github.com/moka-project/moka-icon-theme)
   - Aller Font (https://www.fontsquirrel.com/fonts/aller)
+  
+This is a listing of where the files in this repository should be installed, and what the purpose is.
+  - LeapFinal.png: /usr/share/wallpapers/ (default wallpaper)
+  - autostart: /etc/xdg/lxsession/LXDE/ (autostart programs for LXsession)
+  - config: /etc/xdg/vala-panel/default/ (make vala-panel use lxsession logout)
+  - desktop.conf: /etc/xdg/lxsession/LXDE/ (set gtk, icon, cursor theme)
+  - displaymanager: /etc/sysconfig/ (set displaymanager)
+  - lightdm-gtk-greeter.conf: /etc/lightdm/ (configure lightdm)
+  - panel: /etc/xdg/vala-panel/defalut/panels/ (panel layout and appearance)
+  - pcmanfm.conf: /etc/xdg/pcmanfm/LXDE/ (set wallpaper, configure pcmanfm)
+  - rc.xml: /etc/xdg/openbox/LXDE/ (configure openbox WM)
+  - skippy-xd.desktop: /usr/share/applications/ (skippy-xd desktop file)
+  - spread.svg: /usr/share/icons/ (skippy-xd icon)
+  - synapse.desktop: /usr/share/applications/ (synapse desktop file)
 
 The files in this repository rely on the above software components, and are simply just configurations to bring the components together.
 
-
-This is a listing of where the files in this repository should be installed, and what the purpose is.
-
--LeapFinal.png: /usr/share/wallpapers/(default wallpaper)
-autostart: /etc/xdg/lxsession/LXDE/(autostart programs for LXsession)config: /etc/xdg/vala-panel/default/        (set logout command for vala-panel)displaymanager: /etc/sysconfig/             (set display manager)desktop.conf: /etc/xdg/lxsession/LXDE/      (set gtk, icon, cursor themes)lightdm-gtk-greeter.conf: /etc/lightdm/     (configure lightdm greeter)panel: /etc/xdg/vala-panel/default/panels/  (panel layout and appearance)pcmanfm.conf: /etc/xdg/pcmanfm/LXDE/        (set wallpaper, desktop settings)rc.xml: /etc/xdg/openbox/LXDE/              (configure openbox)skippy-xd.desktop: /usr/share/applications/ (set up skippy-xd program)synapse.desktop: /usr/share/applications/   (set up synapse program)
