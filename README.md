@@ -10,6 +10,7 @@ Software Components of Loki Desktop:
   - LXDE Session, PCManFM (http://lxde.org/)
   - LightDM (https://freedesktop.org/wiki/Software/LightDM/)
   - LightDM GTK Greeter (https://launchpad.net/lightdm-gtk-greeter)
+
 Artistic Components
   - Arc Theme (https://github.com/horst3180/arc-theme)
   - Moka Icons (https://github.com/moka-project/moka-icon-theme)
