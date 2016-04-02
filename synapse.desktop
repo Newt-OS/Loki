@@ -1,0 +1,8 @@
+[Desktop Entry]
+X-SuSE-translate=true
+Type=Application
+Name=Synapse
+Comment=Search everything you do.
+Exec=synapse
+Icon=edit-find-symbolic
+Categories=GNOME;Utility;X-SuSE-DesktopUtility;

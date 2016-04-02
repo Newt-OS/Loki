@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Window Spread
+Comment=Show All Windows
+Exec=/usr/bin/skippy-xd
+Icon=/usr/share/icons/spread.svg
+Terminal=false
